@@ -1073,7 +1073,11 @@ Eg: small company -- 300 people -- 300 computers -- we can choose "B" class beca
 **Steps to do subnetting:
 Here we have 256 Ip's in a big network -- C class
 EG: small company -- 30 people -- 30 computers
+  
 
+
+
+  
 1.requirements -- plan how many Ip address we need -- 30 Ip's --
 
 2.identifying the nearest value by 2^n formula. -- 2^h -- 
